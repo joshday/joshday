@@ -10,7 +10,7 @@ My name is Josh. I work on all things technical/scientific computing, but my nic
 
 ## About Me
 
-- I'm a Senior Research Scientist at [JuliaHub](https://juliahub.com) where I primarily do scientific software/data science R&D for government customers.
+- I'm a Senior Research Scientist at [Rallypoint One](https://rallypoint1.com) where I primarily do scientific software/data science R&D for government customers.
 - I do a lot of [open source development](https://github.com/joshday).
 - I am the creator and main contributor to the [Julia for Data Science](https://www.juliafordatascience.com) newsletter.
 - I have a PhD in Statistics from NC State.  My research into on-line algorithms for statistics led to the development of the [OnlineStats](https://github.com/joshday/OnlineStats.jl) Julia package.
