@@ -10,6 +10,8 @@ My name is Josh. I'm a generalist that's worked with a ton of different domains.
 ## About Me
 
 - I'm the Director of Software Engineering at [Rallypoint One](https://rallypoint1.com), a veteran-owned small business focused on open-source scientific computing, AI/ML, and digital twins for government R&D.
+
+  [<img src="https://rallypoint1.com/assets/images/image01.jpg?v=9567a3d0" height="60"/>](https://rallypoint1.com)
 - I do a lot of [open source development](https://github.com/joshday).
 - I am the creator and main contributor to the [Julia for Data Science](https://www.juliafordatascience.com) newsletter.
 - I have a PhD in Statistics from NC State. My research into on-line algorithms for statistics led to the development of the [OnlineStats](https://github.com/joshday/OnlineStats.jl) Julia package.
@@ -19,7 +21,12 @@ My name is Josh. I'm a generalist that's worked with a ton of different domains.
 I'm currently building Julia tooling for geospatial and environmental computing at [RallypointOne](https://github.com/RallypointOne), including:
 
 - **[HEATMAPS](https://rallypoint1.com)** (NSF ASCEND-funded): GPU-accelerated digital twin framework for wildfire propagation modeling using surrogates and physics-informed neural networks.
+
+  [<img src="https://cdn.prod.website-files.com/656a3ba5feb65fb0fbe6da94/682747ea8456ac1c77ac0ded_Ascend-bug.png" height="60"/>](https://www.co-wyengine.org/)
+
 - **[MICROCAST](https://rallypoint1.com)** (Navy SBIR-funded): Hybrid forecasting framework for naval operations integrating [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl), [Oceananigans](https://github.com/CliMA/Oceananigans.jl), [Breeze](https://github.com/NumericalEarth/Breeze.jl), and ML weather prediction.
+
+  [<img src="https://seedfund.nsf.gov/assets/img/logo/logo-2c.svg" height="60"/>](https://seedfund.nsf.gov/)
 
 ## Things I've Built
 
@@ -54,4 +61,4 @@ I'm currently building Julia tooling for geospatial and environmental computing 
 
 - [**One Click Tuner**](https://oneclicktuner.com): iOS app with a chromatic musical instrument tuner.
 
-[**And much more...**](https://github.com/joshday?tab=repositories&q=&type=&language=&sort=stargazers)
+**And much more...** [GitHub repos](https://github.com/joshday?tab=repositories&q=&type=&language=&sort=stargazers)
