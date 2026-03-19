@@ -20,13 +20,10 @@ My name is Josh. I'm a generalist that's worked with a ton of different domains.
 
 I'm currently building Julia tooling for geospatial and environmental computing at [RallypointOne](https://github.com/RallypointOne), including:
 
+![](https://raw.githubusercontent.com/RallypointOne/website-assets/main/rp1-email-sig-logos.png)
+
 - **[HEATMAPS](https://rallypoint1.com)** (NSF ASCEND-funded): GPU-accelerated digital twin framework for wildfire propagation modeling using surrogates and physics-informed neural networks.
-
-  [<img src="https://cdn.prod.website-files.com/656a3ba5feb65fb0fbe6da94/682747ea8456ac1c77ac0ded_Ascend-bug.png" height="60"/>](https://www.co-wyengine.org/)
-
 - **[MICROCAST](https://rallypoint1.com)** (Navy SBIR-funded): Hybrid forecasting framework for naval operations integrating [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl), [Oceananigans](https://github.com/CliMA/Oceananigans.jl), [Breeze](https://github.com/NumericalEarth/Breeze.jl), and ML weather prediction.
-
-  [<img src="https://seedfund.nsf.gov/assets/img/logo/logo-2c.svg" height="60"/>](https://seedfund.nsf.gov/)
 
 ## Things I've Built
 
