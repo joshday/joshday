@@ -9,21 +9,22 @@ My name is Josh. I'm a generalist that's worked with a ton of different domains.
 
 ## About Me
 
-- I'm the Director of Software Engineering at [Rallypoint One](https://rallypoint1.com), a veteran-owned small business focused on open-source scientific computing, AI/ML, and digital twins for government R&D.
+- I'm the Co-Founder and Director of Software Engineering at [Rallypoint One](https://rallypoint1.com), a small business focused on open-source scientific computing, AI/ML, and digital twins for government R&D.
 
   <p align="center"><a href="https://rallypoint1.com"><img src="https://rallypoint1.com/assets/images/image01.jpg?v=9567a3d0" height="80"/></a></p>
 - I do a lot of [open source development](https://github.com/joshday).
 - I am the creator and main contributor to the [Julia for Data Science](https://www.juliafordatascience.com) newsletter.
 - I have a PhD in Statistics from NC State. My research into on-line algorithms for statistics led to the development of the [OnlineStats](https://github.com/joshday/OnlineStats.jl) Julia package.
 
-## Current Focus
+## Current Projects
 
-I'm currently building Julia tooling for geospatial and environmental computing at [RallypointOne](https://github.com/RallypointOne), including:
+I lead software engineering at [RallypointOne](https://github.com/RallypointOne), building Julia-based simulation and hybrid physics/ML models for federal R&D:
 
 <p align="center"><img src="https://raw.githubusercontent.com/RallypointOne/website-assets/main/rp1-email-sig-logos.png" height="80"/></p>
 
-- **[HEATMAPS](https://rallypoint1.com)** (NSF ASCEND-funded): GPU-accelerated digital twin framework for wildfire propagation modeling using surrogates and physics-informed neural networks.
-- **[MICROCAST](https://rallypoint1.com)** (Navy SBIR-funded): Hybrid forecasting framework for naval operations integrating [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl), [Oceananigans](https://github.com/CliMA/Oceananigans.jl), [Breeze](https://github.com/NumericalEarth/Breeze.jl), and ML weather prediction.
+- **[HEATMAPS / ARID](https://rallypoint1.com)** (NSF ASCEND-funded): Wildfire decision support via GPU-accelerated digital twins and continuous surrogate environment fields, expanding into wildfire/water/power asset resilience across the Colorado–Wyoming region.
+- **[MICROCAST](https://rallypoint1.com)** (Navy SBIR-funded): Hybrid forecasting framework for naval operations integrating [SpeedyWeather](https://github.com/SpeedyWeather/SpeedyWeather.jl), [Oceananigans](https://github.com/CliMA/Oceananigans.jl), [Breeze](https://github.com/NumericalEarth/Breeze.jl), [NumericalEarth](https://github.com/NumericalEarth/NumericalEarth.jl), as well as numerical weather prediction tools from outside the Julia ecosystem.
+- **IRAM** (NASA SBIR Ignite-funded): Real-time hybrid physics/ML modeling of metal additive manufacturing — universal differential equations updated live from sensor data for defect prediction and closed-loop control.
 
 ## Things I've Built
 
@@ -43,6 +44,7 @@ I'm currently building Julia tooling for geospatial and environmental computing 
 - [**Elmfire.jl**](https://github.com/RallypointOne/Elmfire.jl): Julia implementation of the ELMFIRE fire propagation model.
 - [**GlobalGrids.jl**](https://github.com/RallypointOne/GlobalGrids.jl): Discrete global grids in Julia.
 - [**GeoSurrogates.jl**](https://github.com/RallypointOne/GeoSurrogates.jl): Surrogate function representations of geospatial data.
+- [**WildfireData.jl**](https://github.com/RallypointOne/WildfireData.jl): Unified Julia interface for federal wildfire data (LANDFIRE, NIFC, GOES-16, HRRR).
 - [**RapidRefreshData.jl**](https://github.com/RallypointOne/RapidRefreshData.jl): Downloads data from NOAA RAP/HRRR/GFS weather models.
 - [**DeckGL.jl**](https://github.com/RallypointOne/DeckGL.jl): WebGL-powered geospatial visualizations in Julia via deck.gl.
 - [**Landfire.jl**](https://github.com/RallypointOne/Landfire.jl): Julia client for the LANDFIRE Product Service API.
